@@ -6,6 +6,8 @@ The alphabet, a seemingly ordinary collection of 26 letters, possesses a profoun
 ## What it does
 This code consists of a simple alphabet validation game with a graphical user interface (GUI) using the Tkinter library in Python. The GUI prompts the user to input alphabets, validating and responding to the correctness of the input by communicating with a server implemented in a separate script. The server, established using the socket module, tracks the user's progress in traversing the alphabet forwards and backwards, providing feedback on correctness and updating the user's score. The game loop continues until an incorrect input is received, at which point the server sends a concluding message. The client script, integrated into the GUI code, uses a "client" module to validate user inputs and handle game logic. The GUI includes buttons, labels, and entry fields for user interaction. Overall, this code creates an interactive alphabet game interface with a client-server architecture.
 
+**If the user fails, they receive a punishment :(** 
+
 ## How we built it
 Python
 
