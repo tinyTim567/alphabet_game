@@ -1,6 +1,6 @@
 import socket
 ALPHABET = 'abcdefghijklmnopqrstuvwxyz'
-server_address = ('localhost', 6969)
+server_address = ('localhost', 6962)
 server_socket = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
 server_socket.bind(server_address)
 server_socket.listen(1)
@@ -30,6 +30,8 @@ try:
             place = 24
             client_socket.sendall(f"You have reached the end, now go backwards.\n".encode())
             direction = -1
+        else:
+            client_socket.sendall(f"Correct!\n".encode())
     client_socket.sendall("Goodbye.\n".encode())
 finally:
     client_socket.close()
