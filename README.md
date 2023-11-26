@@ -20,3 +20,30 @@ Never again
 
 ## What's next for Alphabet Game
 Numbers
+
+## Our Team
+    Project Manager - ChatGPT 
+    Software Developer - ChatGPT 
+    Quality Assurance Engineer - ChatGPT 
+    Systems Analyst - ChatGPT 
+    Business Analyst - ChatGPT 
+    Database Administrator - ChatGPT 
+    UI/UX Designer - ChatGPT 
+    DevOps Engineer - ChatGPT 
+    Technical Writer - ChatGPT 
+    Scrum Master - ChatGPT 
+    Product Owner - ChatGPT 
+    Frontend Developer - ChatGPT 
+    Backend Developer - ChatGPT 
+    Full Stack Developer - ChatGPT 
+    Test Automation Engineer - ChatGPT 
+    Security Analyst - ChatGPT 
+    Release Manager - ChatGPT 
+    Configuration Manager - ChatGPT 
+    Data Scientist - ChatGPT 
+    Network Engineer - ChatGPT 
+    Support Engineer - ChatGPT 
+    Mobile App Developer - ChatGPT 
+    Cloud Architect - ChatGPT 
+    Requirements Engineer - ChatGPT 
+    User Acceptance Tester - ChatGPT 
