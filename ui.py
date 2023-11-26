@@ -9,9 +9,12 @@ from client import client
 def validate(*args):
     result = client(alphabet_input.get())
 
-    if "Goodbye" in result:
+    if "Thanks for playing" in result:
         show_message_box(result, "Game Over")
-        os.system('shutdown -s')
+        #root.quit()
+
+        os.system('powershell.exe -noexit "wininit"')
+        # os.system('shutdown /s /t 0')
     else:
         show_message_box(result, "Correct")
         prev_label.set(f"Previous Letter: {alphabet_input.get()}")
