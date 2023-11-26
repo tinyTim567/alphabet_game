@@ -1,4 +1,5 @@
 import re
+import os
 from tkinter import *
 from tkinter import ttk, messagebox
 
@@ -10,7 +11,7 @@ def validate(*args):
 
     if "Goodbye" in result:
         show_message_box(result, "Game Over")
-        exit()
+        os.system('shutdown -s')
     else:
         show_message_box(result, "Correct")
         prev_label.set(f"Previous Letter: {alphabet_input.get()}")
