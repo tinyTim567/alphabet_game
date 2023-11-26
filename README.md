@@ -1,4 +1,4 @@
-# Number "Game"
+# Alphabet "Game"
 
 ## Inspiration
 The alphabet, a seemingly ordinary collection of 26 letters, possesses a profound ability to inspire and unlock boundless creativity within me. Each letter represents not just a sound but a gateway to expression, communication, and imagination. As I navigate through the intricate dance of vowels and consonants, I am reminded of the endless possibilities they offer in forming words, sentences, and stories. The simplicity of the alphabet belies its transformative power—it is a foundation upon which ideas are built, a palette with which I paint the canvas of language. In the elegant dance of letters, I find inspiration to construct narratives, share ideas, and connect with others. The alphabet is not merely a tool for communication; it is a source of endless fascination, a catalyst for the creative spark that propels me to explore the vast landscape of language with awe and wonder.
